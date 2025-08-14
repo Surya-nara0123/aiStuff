@@ -1,0 +1,9 @@
+6 8
+S F
+C S
+B E
+E F
+B S
+B C
+G E
+B F

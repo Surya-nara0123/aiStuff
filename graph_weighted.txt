@@ -1,0 +1,15 @@
+6 8
+S E 9
+G S 8
+B S 4
+B E 9
+S F 8
+A B 1
+G F 3
+A S 6
+A 13
+B 11
+G 0
+S 12
+E 1
+F 8
